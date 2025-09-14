@@ -8,18 +8,18 @@ Breast cancer exhibits extensive molecular and spatial heterogeneity. We built a
 ## Figures (examples)
 <p align="center">
   <img src="Abstract/fig_ablation_cindex.png" width="45%"/> 
-  <img src="outputs/figures/km_METABRIC.png" width="45%"/>
+  <img src="Abstract/fig_attention_heatmap.png" width="45%"/>
 </p>
 <p align="center">
-  <img src="outputs/figures/time_auc_TCGA.png" width="45%"/> 
-  <img src="outputs/figures/time_auc_METABRIC.png" width="45%"/>
+  <img src="Abstract/fig_calibration.png" width="45%"/> 
+  <img src="Abstract/fig_embedding_scatter.png" width="45%"/>
 </p>
 <p align="center">
-  <img src="outputs/figures/calibration_TCGA.png" width="45%"/>
-  <img src="outputs/figures/forest_TCGA.png" width="45%"/>
+  <img src="Abstract/fig_forest_hr.png" width="45%"/>
+  <img src="Abstract/fig_km_risk_groups.png" width="45%"/>
 </p>
 <p align="center">
-  <img src="outputs/figures/spatial_map.png" width="60%"/>
+  <img src="Abstract/fig_shap_importance.png" width="60%"/>
 </p>
 
 ---
