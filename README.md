@@ -26,7 +26,7 @@ Breast cancer exhibits extensive molecular and spatial heterogeneity. We built a
 
 ## Methods (short)
 <p align="center">
-  <img src="Modelsillustrations/figure_overview_pipeline.pdf" width="60%"/>
+  <img src="Modelsillustrations/figure_overview_pipeline.jpg" width="60%"/>
 </p>
 - **Data**: TCGA-BRCA (RNA-seq + survival), METABRIC (microarray + survival), 10x Visium Breast Cancer, scRNA reference atlas.
 - **Preprocessing**: gene symbol normalization (upper-case, version stripping), H&E tile extraction, Visium spot alignment, QC/normalization.
