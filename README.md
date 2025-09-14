@@ -1,4 +1,3 @@
-cat > README.md <<'MD'
 # Multi-Omics and Spatial Transcriptomics Integration for Breast Cancer Subtype Classification and Survival Analysis Using Deep Learning
 
 ## Abstract
