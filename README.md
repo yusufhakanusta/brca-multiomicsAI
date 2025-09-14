@@ -7,7 +7,7 @@ Breast cancer exhibits extensive molecular and spatial heterogeneity. We built a
 
 ## Figures (examples)
 <p align="center">
-  <img src="outputs/figures/km_TCGA.png" width="45%"/> 
+  <img src="Abstract/fig_ablation_cindex.png" width="45%"/> 
   <img src="outputs/figures/km_METABRIC.png" width="45%"/>
 </p>
 <p align="center">
