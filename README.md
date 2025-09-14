@@ -25,6 +25,7 @@ Breast cancer exhibits extensive molecular and spatial heterogeneity. We built a
 ---
 
 ## Methods (short)
+**Project Overview**
 <p align="center">
   <img src="Modelsillustrations/figure_overview_pipeline.jpg" width="60%"/>
 </p>
