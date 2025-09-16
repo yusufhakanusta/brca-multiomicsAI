@@ -83,6 +83,7 @@ Breast cancer exhibits extensive molecular and spatial heterogeneity. We built a
 
 ## Citation (preprint-style)
 > **Yusuf Hakan Usta** Multi_Omics_and_Spatial_Transcriptomics_Integration_for_Breast_Cancer_Subtype_Classification_and_Survival_Analysis_Using_Deep_Learning, 2025, bioRxiv - manuscript submitted
+> https://github.com/yusufhakanusta/brca-multiomicsAI/blob/main/Multi_Omics_and_Spatial_Transcriptomics_Integration_for_Breast_Cancer_Subtype_Classification_and_Survival_Analysis_Using_Deep_Learning-%20manuscript.pdf
 
 ## License
 MIT
