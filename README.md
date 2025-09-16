@@ -82,7 +82,7 @@ Breast cancer exhibits extensive molecular and spatial heterogeneity. We built a
 ---
 
 ## Citation (preprint-style)
-> **Your Name**. Multi-Omics and Spatial Transcriptomics Integration for Breast Cancer Using Deep Learning. *bioRxiv* (preprint), 2025.
+> **Yusuf Hakan Usta** Multi_Omics_and_Spatial_Transcriptomics_Integration_for_Breast_Cancer_Subtype_Classification_and_Survival_Analysis_Using_Deep_Learning, 2025, bioRxiv - manuscript submitted
 
 ## License
 MIT
