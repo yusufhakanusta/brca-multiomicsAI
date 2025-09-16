@@ -53,7 +53,7 @@ Breast cancer exhibits extensive molecular and spatial heterogeneity. We built a
 - `conda activate brca-dl`
 - or: `pip install -r requirements.txt` (Python 3.10)
 
-### Key scripts (examples)
+### Key scripts
 - `scripts/day5_tangram.py` — scRNA→Visium mapping  
 - `scripts/day10_risk_groups.py` — KM by risk tertiles  
 - `scripts/day11_subtypes_and_importance.py` — risk vs subtype, latent importance  
